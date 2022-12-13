@@ -1,6 +1,7 @@
-
-
 h1, h2, h3,p {
     text-align: center;
 }
 
+body {
+    background-color:rgb(160, 217, 160)
+}
