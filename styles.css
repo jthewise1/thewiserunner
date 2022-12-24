@@ -4,11 +4,19 @@ h1, h2, h3,p {
 
 
 .menu {
+    width: 80%
+    height:auto;
     margin-left: auto;
     margin-right: auto;
     background-color: rgba(0, 0, 255, 0.208);
 }
  
-.body{
-    background-image: url(/mnt/c/Users/johnn/OneDrive/Desktop/repos/Wiserunner/thewiserunner/images/footprint.jpg)
+body {
+   background-image: url (https://cpb-ca-c1.wpmucdn.com/myriverside.sd43.bc.ca/dist/8/2397/files/2016/10/digital-footprint-trail-13kr4ry.jpg)
+ 
+.banner {
+    div {
+        display: flex;
+        justify-content: center;
+      }
 }
