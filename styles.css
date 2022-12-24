@@ -3,8 +3,12 @@ h1, h2, h3,p {
 }
 
 
-div {
-    width:300px
-    background-color: blue
+.menu {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 255, 0.208);
 }
+ 
+.body{
+    background-image: url(/mnt/c/Users/johnn/OneDrive/Desktop/repos/Wiserunner/thewiserunner/images/footprint.jpg)
 }
