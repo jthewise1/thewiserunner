@@ -2,10 +2,11 @@ h1, h2, h3,p {
     text-align: center;
 }
 
-
+* {
+    border: 2px solid red:    
+}
 .menu, .goal {
     width: 50%
-   
     margin-right: auto;
     background-color: rgba(0, 0, 255, 0.208);
 }
@@ -14,11 +15,12 @@ body {
    background-image: url (https://cpb-ca-c1.wpmucdn.com/myriverside.sd43.bc.ca/dist/8/2397/files/2016/10/digital-footprint-trail-13kr4ry.jpg);
 }
 
-.banner {
-    div {
-        display: flex;
-        justify-content: center;
+.img  {
+    display: block;
+    margin-left: 15px;
+    margin-right: auto;
       }
+
 .goal{
 
 }
