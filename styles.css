@@ -1,7 +1,11 @@
 h1, h2, h3,p {
     text-align: center;
 }
+.groupmap {
 
+    margin-right: auto;
+   
+}
 * {
     border: 2px solid red:    
 }
@@ -21,9 +25,7 @@ body {
     margin-right: auto;
       }
 
-.goal{
-
-}
-.date{
-
+.menu-btn {
+    color: red;
+    margin: auto;
 }
